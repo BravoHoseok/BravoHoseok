@@ -6,7 +6,7 @@
 
 ![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=BravoHoseok&show_icons=true)
 
-/github/followers/:user?label=Follow
+/github/followers/:BravoHoseok?label=Follow
 
 <!--
 **BravoHoseok/BravoHoseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
