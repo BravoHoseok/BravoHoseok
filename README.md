@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=Hoseok&show_icons=true)
 
 
 <!--
