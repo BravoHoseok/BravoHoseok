@@ -8,7 +8,7 @@ I worked at Continental Automotive Electronics, a global automotive part company
 
 | Title | Author | State |
 | ------ | ------ | ------ |
-| Expert C | PETER VAN DER LINDEN | ![0%](https://progress-bar.dev/0/?title=progress) |
+| Expert C | PETER VAN DER LINDEN | ![0%](https://progress-bar.dev/0/?scale=500&title=progress) |
 | C Traps and Pit falls | ANDREW KOENING | ![0%](https://progress-bar.dev/0/?title=progress) |
 | Embedded Recipies | Hien | ![0%](https://progress-bar.dev/0/?title=progress) |
 | Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?title=progress) |
