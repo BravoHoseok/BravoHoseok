@@ -3,7 +3,7 @@
 
 
 ### 👋Hello:) My name is Hoseok Lee. 
-I worked at 'Continental Automotive Electronics' as a senior embedded software developer for about five years.
+I worked at Continental Automotive Electronics, a global automotive part company, as a senior embedded software developer for about five years.
 
 ![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=BravoHoseok&show_icons=true)
 
