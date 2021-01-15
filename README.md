@@ -1,13 +1,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBravoHoseok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Hits](https://img.shields.io/github/followers/harimkang?label=Follow)
 
+![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=BravoHoseok&show_icons=true)
 
 ### Hi👋 My name is Hoseok Lee, an aspring software developer😄
-I worked at Continental Automotive Electronics, a global automotive part company, as a senior embedded software developer from oct.2014 to july.2019.
-Now, I am pursing academic careers in PhD course and preparing graduate school admission.
-My personal study plan is shown as below table. In this study plan, my motto is that "Back to the basic".
-After completing the study, I will start doing personal project with ODROID embedded board.
-The below plan is going to be updated periodically.
+I worked at Continental Automotive Electronics, a global automotive part company, as a senior embedded software developer from Oct 2014 to Jul 2019.
+Now, I am preparing graduate school admission and aim to pursue academic careers through PhD course.
+
+My personal study plan is shown as below table. In this study plan, my motto is that "Back to the basic"🌱.
+After completing the plan studying theories, I will start doing personal projects, such as kernel porting, device driver control, scheduling, camera control, ethernet, with an ODROID embedded board based on LINUX operating system.  
+I will update my personal plan and my personal project periodically.
 
 
 | Title | Author | State | Expected completion time |
@@ -20,11 +22,8 @@ The below plan is going to be updated periodically.
 | Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 | Linux Kernel | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 | Personal Project | Odriod Embedded System | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
-
-
-![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=BravoHoseok&show_icons=true)
-
-
+| Java | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
+| Android | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BravoHoseok&langs_count=8)](https://github.com/BravoHoseok/github-readme-stats) -->
