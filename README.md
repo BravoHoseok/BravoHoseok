@@ -5,14 +5,7 @@
 ### 👋Hello:) My name is Hoseok Lee. 
 I worked at Continental Automotive Electronics, a global automotive part company, as a senior embedded software developer for about five years.
 
-
-from progress.bar import Bar
-
-bar = Bar('Processing', max=20)
-for i in range(20):
-    # Do some work
-    bar.next()
-bar.finish()
+https://progress-bar.dev/<0%>?title=<Expert C>
 
 
 ![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=BravoHoseok&show_icons=true)
