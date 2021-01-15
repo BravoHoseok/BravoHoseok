@@ -5,7 +5,16 @@
 ### 👋Hello:) My name is Hoseok Lee. 
 I worked at Continental Automotive Electronics, a global automotive part company, as a senior embedded software developer for about five years.
 
-![1%](https://progress-bar.dev/1/?title=progress)
+
+| Title | Author | State |
+| ------ | ------ | ------ |
+| Expert C | PETER VAN DER LINDEN | ![0%](https://progress-bar.dev/0/?title=progress) |
+| C Traps and Pit falls | ANDREW KOENING | ![0%](https://progress-bar.dev/0/?title=progress) |
+| Embedded Recipies | Hien | ![0%](https://progress-bar.dev/0/?title=progress) |
+| Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?title=progress) |
+| Linux Kernel | xxx | ![0%](https://progress-bar.dev/0/?title=progress) |
+| Personal Project | Odriod Embedded System | ![0%](https://progress-bar.dev/0/?title=progress) |
+
 
 ![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=BravoHoseok&show_icons=true)
 
