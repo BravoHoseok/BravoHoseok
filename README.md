@@ -2,18 +2,24 @@
 ![Hits](https://img.shields.io/github/followers/harimkang?label=Follow)
 
 
-### 👋Hello:) My name is Hoseok Lee. 
-I worked at Continental Automotive Electronics, a global automotive part company, as a senior embedded software developer for about five years.
+### Hi👋 My name is Hoseok Lee, an aspring software developer😄
+I worked at Continental Automotive Electronics, a global automotive part company, as a senior embedded software developer from oct.2014 to july.2019.
+Now, I am pursing academic careers in PhD course and preparing graduate school admission.
+My personal study plan is shown as below table. In this study plan, my motto is that "Back to the basic".
+After completing the study, I will start doing personal project with ODROID embedded board.
+The below plan is going to be updated periodically.
 
 
-| Title | Author | State |
-| ------ | ------ | ------ |
-| Expert C | PETER VAN DER LINDEN | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) |
-| C Traps and Pit falls | ANDREW KOENING | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) |
-| Embedded Recipies | Hien | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) |
-| Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) |
-| Linux Kernel | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) |
-| Personal Project | Odriod Embedded System | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) |
+| Title | Author | State | Expected completion time |
+| ------ | ------ | ------ | ------ |
+| C Language | TBD | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 weeks |
+| Data Structure | TBD | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 weeks |
+| Expert C | PETER VAN DER LINDEN | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 2 weeks |
+| C Traps and Pit falls | ANDREW KOENING | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 week |
+| Embedded Recipies | Hien | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 week |
+| Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
+| Linux Kernel | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
+| Personal Project | Odriod Embedded System | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 
 
 ![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=BravoHoseok&show_icons=true)
