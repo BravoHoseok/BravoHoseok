@@ -8,12 +8,12 @@ I worked at Continental Automotive Electronics, a global automotive part company
 
 | Title | Author | State |
 | ------ | ------ | ------ |
-| Expert C | PETER VAN DER LINDEN | ![0%](https://progress-bar.dev/0/?width=200&title=Not Start) |
-| C Traps and Pit falls | ANDREW KOENING | ![0%](https://progress-bar.dev/0/?width=200&title=Not Start) |
-| Embedded Recipies | Hien | ![0%](https://progress-bar.dev/0/?width=200&title=Not Start) |
-| Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=Not Start) |
-| Linux Kernel | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=Not Start) |
-| Personal Project | Odriod Embedded System | ![0%](https://progress-bar.dev/0/?width=200&title=Not Start) |
+| Expert C | PETER VAN DER LINDEN | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) |
+| C Traps and Pit falls | ANDREW KOENING | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) |
+| Embedded Recipies | Hien | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) |
+| Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) |
+| Linux Kernel | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) |
+| Personal Project | Odriod Embedded System | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) |
 
 
 ![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=BravoHoseok&show_icons=true)
