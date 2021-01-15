@@ -2,7 +2,7 @@
 ![Hits](https://img.shields.io/github/followers/harimkang?label=Follow)
 
 
-### Hi there 👋
+### Hello👋 I'm Hoseok Lee. I worked at 'Continental Automotive Electronics' as a senior embedded software developer for about five years.
 
 ![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=BravoHoseok&show_icons=true)
 
