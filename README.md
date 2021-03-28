@@ -5,10 +5,10 @@
 
 ### Hi👋 My name is Hoseok Lee, an aspring software developer😄
 I worked at Continental Automotive Electronics, a global automotive part company, as a senior embedded software developer from Oct 2014 to Jul 2019.
-Now, I am preparing graduate school admission and aim to pursue academic careers through PhD course.
+Now, I'm pursuing my research interest at the University of Virginia, Computer Science department as a PhD student.
 
 My personal study plan is shown as below table. In this study plan, my motto is that "Back to the basic"🌱.
-After completing the plan studying theories, I will start doing personal projects, such as kernel porting, device driver control, scheduling, camera control, ethernet, with an ODROID embedded board based on LINUX operating system.  
+After completing the plan studying theories, I will start doing personal projects with an ODROID embedded board based on LINUX operating system.  
 I will update my personal plan and my personal project periodically.
 
 
@@ -21,6 +21,8 @@ I will update my personal plan and my personal project periodically.
 | Embedded Recipies | Hien | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 week |
 | Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 | Linux Kernel | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
+| Exploiting Software - How To Break Code | Greg Hogluho, Gray McGraw | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
+| Rootkits: Subverting the Windows Kernel | Greg Hogluho, James Butler | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 | Personal Project | Odriod Embedded System | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 | Java | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 | Android | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
