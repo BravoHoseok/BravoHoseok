@@ -14,16 +14,15 @@ I will update my personal plan and my personal project periodically.
 
 | Title | Author | State | Expected completion time |
 | ------ | ------ | ------ | ------ |
-| C Language | TBD | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 weeks |
-| Data Structure | TBD | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 weeks |
+| C Language | Seongwoo Yoon | ![100%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 weeks |
+| Introduction to Algorithms | Thomas H. Cormen | ![80%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 weeks |
 | Expert C | PETER VAN DER LINDEN | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 2 weeks |
 | C Traps and Pit falls | ANDREW KOENING | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 week |
-| Embedded Recipies | Hien | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 week |
+| Embedded Recipies | Hien | ![80%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 week |
 | Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 | Linux Kernel | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
-| Exploiting Software - How To Break Code | Greg Hogluho, Gray McGraw | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
-| Rootkits: Subverting the Windows Kernel | Greg Hogluho, James Butler | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 | Personal Project | Odriod Embedded System | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
+| C++ | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 | Java | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 | Android | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 
