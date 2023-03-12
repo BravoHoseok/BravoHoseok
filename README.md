@@ -8,19 +8,19 @@ I love the pharase cited by Benjamin Franklin, "An investment in knowledge still
 So, self improvemt is still on going as a software developer. The study plan is as follows.
 
 
-| Title | Author | State | Expected completion time |
+| Title | Author | Progress | State |
 | ------ | ------ | ------ | ------ |
-| C Language | Seongwoo Yoon | ![100%](https://progress-bar.dev/100/?width=200&title=NotStart) | 1 weeks |
-| Introduction to Algorithms | Thomas H. Cormen | ![80%](https://progress-bar.dev/80/?width=200&title=NotStart) | 1 weeks |
-| Expert C | PETER VAN DER LINDEN | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 2 weeks |
-| C Traps and Pit falls | ANDREW KOENING | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 week |
-| Embedded Recipies | Hien | ![80%](https://progress-bar.dev/80/?width=200&title=NotStart) | 1 week |
-| Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
-| Linux Kernel | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
-| Personal Project | Odriod Embedded System | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
-| C++ | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
-| Java | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
-| Android | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
+| C Language | Seongwoo Yoon | ![100%](https://progress-bar.dev/100/?width=200&title=NotStart) | Done |
+| Introduction to Algorithms | Thomas H. Cormen | ![80%](https://progress-bar.dev/80/?width=200&title=NotStart) | Ongoing |
+| Expert C | PETER VAN DER LINDEN | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
+| C Traps and Pit falls | ANDREW KOENING | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
+| Embedded Recipies | Hien | ![80%](https://progress-bar.dev/80/?width=200&title=NotStart) | Ongoing |
+| Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
+| Linux Kernel | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
+| Personal Project | Odriod Embedded System | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
+| C++ | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
+| Java | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
+| Android | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BravoHoseok&langs_count=8)](https://github.com/BravoHoseok/github-readme-stats) -->
