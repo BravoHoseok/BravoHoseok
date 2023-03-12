@@ -14,11 +14,11 @@ I will update my personal plan and my personal project periodically.
 
 | Title | Author | State | Expected completion time |
 | ------ | ------ | ------ | ------ |
-| C Language | Seongwoo Yoon | ![100%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 weeks |
-| Introduction to Algorithms | Thomas H. Cormen | ![80%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 weeks |
+| C Language | Seongwoo Yoon | ![100%](https://progress-bar.dev/100/?width=200&title=NotStart) | 1 weeks |
+| Introduction to Algorithms | Thomas H. Cormen | ![80%](https://progress-bar.dev/80/?width=200&title=NotStart) | 1 weeks |
 | Expert C | PETER VAN DER LINDEN | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 2 weeks |
 | C Traps and Pit falls | ANDREW KOENING | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 week |
-| Embedded Recipies | Hien | ![80%](https://progress-bar.dev/0/?width=200&title=NotStart) | 1 week |
+| Embedded Recipies | Hien | ![80%](https://progress-bar.dev/80/?width=200&title=NotStart) | 1 week |
 | Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 | Linux Kernel | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
 | Personal Project | Odriod Embedded System | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | TBD |
