@@ -4,12 +4,8 @@
 ![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=BravoHoseok&show_icons=true)
 
 ### Hi👋 My name is Hoseok Lee, an aspring software developer😄
-I worked at Continental Automotive Electronics, a global automotive part company, as a senior embedded software developer from Oct 2014 to Jul 2019.
-Now, I'm pursuing my research interest at the University of Virginia, Computer Science department as a PhD student.
-
-My personal study plan is shown as below table. In this study plan, my motto is that "Back to the basic"🌱.
-After completing the plan studying theories, I will start doing personal projects with an ODROID embedded board based on LINUX operating system.  
-I will update my personal plan and my personal project periodically.
+I love the pharase cited by Benjamin Franklin, "An investment in knowledge still yields the best return🌱", which became my backbone to pusure my goal.
+So, self improvemt is still on going as a software developer. The study plan is as follows.
 
 
 | Title | Author | State | Expected completion time |
