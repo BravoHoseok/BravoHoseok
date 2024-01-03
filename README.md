@@ -4,22 +4,21 @@
 ![Hoseok's github stats](https://github-readme-stats.vercel.app/api?username=BravoHoseok&show_icons=true)
 
 ### Hi👋 My name is Hoseok Lee, an aspring software developer😄
-I love the pharase cited by Benjamin Franklin, "An investment in knowledge still yields the best return🌱", which became my backbone to pusure my goal.
-So, self improvemt is still on going as a software developer. The study plan is as follows.
-
+I love the pharase cited by Benjamin Franklin, "An investment in knowledge still yields the best return🌱", which is my backbone in my life.
+Self Study Plan
 
 | Title | Author | Progress | State |
 | ------ | ------ | ------ | ------ |
 | C Language | Seongwoo Yoon | ![100%](https://progress-bar.dev/100/?width=200&title=NotStart) | Done |
-| Introduction to Algorithms | Thomas H. Cormen | ![80%](https://progress-bar.dev/80/?width=200&title=NotStart) | Ongoing |
+| Introduction to Algorithms | Thomas H. Cormen | ![100%](https://progress-bar.dev/80/?width=200&title=NotStart) | Ongoing |
 | Expert C | PETER VAN DER LINDEN | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
 | C Traps and Pit falls | ANDREW KOENING | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
 | Embedded Recipies | Hien | ![80%](https://progress-bar.dev/80/?width=200&title=NotStart) | Ongoing |
-| Operating Theory | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
+| OS Theory | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
 | Linux Kernel | xxx | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
 | Personal Project | Odriod Embedded System | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
 | C++ | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
-| Java | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
+| Python | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
 | Android | Object-Orient Programming | ![0%](https://progress-bar.dev/0/?width=200&title=NotStart) | Ongoing |
 
 
